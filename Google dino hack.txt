@@ -1,4 +1,5 @@
 To access game in online type chrome://dino
+
 First go to inspect 
 Then Go to console
 Type var original = Runner.prototype.gameOver
