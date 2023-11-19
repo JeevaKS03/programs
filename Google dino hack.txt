@@ -1,0 +1,11 @@
+First go to inspect 
+Go to console
+Type var original = Runner.prototype.gameOver
+Press Enter
+Type Runner.prototype.gameOver = function(){}
+Press Enter 
+f(){} will appear
+Now you can start playing
+
+To stop game and change to original code
+Type Runner.prototype.gameOver = original
