@@ -1,5 +1,5 @@
 First go to inspect 
-Go to console
+Then Go to console
 Type var original = Runner.prototype.gameOver
 Press Enter
 Type Runner.prototype.gameOver = function(){}
