@@ -1,1 +1,1 @@
-This is my learnings,samll projects etc
+This is my learnings,small projects etc
