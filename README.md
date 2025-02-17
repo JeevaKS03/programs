@@ -9,9 +9,6 @@ Welcome to the Files Repository! This repository contains various learning proje
 - [Project Structure](#project-structure)
 - [Languages Used](#languages-used)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 This repository is a collection of my learnings and small projects. It includes code written in Python, C, CSS, JavaScript, and HTML.
