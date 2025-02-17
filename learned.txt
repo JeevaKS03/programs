@@ -1,0 +1,2 @@
+-To edit or sort the files easily click the file and in the edit option choose open with github.dev then it will open a new online vs code then do all the 
+arrangements then click commit and push to save
