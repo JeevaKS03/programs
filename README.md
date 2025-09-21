@@ -1,8 +1,8 @@
 This is My Learnings, Small Projects 🧑‍💻 💾 
 
-# Files Repository
+# Programs Repository
 
-Welcome to the Files Repository! This repository contains various learning projects and small applications across multiple programming languages.
+Welcome to the Programs Repository! This repository contains various learning projects and small applications across multiple programming languages.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -11,18 +11,19 @@ Welcome to the Files Repository! This repository contains various learning proje
 - [Installation](#installation)
 
 ## Introduction
-This repository is a collection of my learnings and small projects. It includes code written in Python, C, CSS, JavaScript, and HTML.
+This repository is a collection of my learnings and small projects.
 
 ## Project Structure
 The repository is organized as follows:
 ## Languages Used
-- **Python**: 36.1%
-- **C**: 30.9%
-- **CSS**: 12.1%
-- **JavaScript**: 10.6%
-- **HTML**: 10.3%
+- **Java**
+- **Python**
+- **C**
+- **CSS**:
+- **JavaScript**
+- **HTML**
 
 ## Installation
 To get started, clone the repository using the following command:
 ```bash
-git clone https://github.com/JeevaKS03/Files.git
+git clone https://github.com/JeevaKS03/programs.git
