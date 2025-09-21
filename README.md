@@ -1,5 +1,3 @@
-This is My Learnings, Small Projects 🧑‍💻 💾 
-
 # Programs Repository
 
 Welcome to the Programs Repository! This repository contains various learning projects and small applications across multiple programming languages.
@@ -19,7 +17,7 @@ The repository is organized as follows:
 - **Java**
 - **Python**
 - **C**
-- **CSS**:
+- **CSS**
 - **JavaScript**
 - **HTML**
 
